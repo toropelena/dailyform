@@ -84,13 +84,11 @@ h1, p {
 	width: 48%;
 }
 
-/* .form__input--sm:first-child {
-	margin-right: 4%;
-} */
 
 .form__input--sm + .form__input--sm {
     margin-left: 4%;
 }
+
 
 .form__btn {
 	width: 100%;
